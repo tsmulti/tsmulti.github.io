@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cs on テストン</title>
+    <link>https://tsmulti.github.io/c/</link>
+    <description>Recent content in Cs on テストン</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 08 Apr 2021 14:43:37 +0900</lastBuildDate><atom:link href="https://tsmulti.github.io/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c/c6 だよ</title>
+      <link>https://tsmulti.github.io/a/c6666.html</link>
+      <pubDate>Thu, 08 Apr 2021 14:43:37 +0900</pubDate>
+      
+      <guid>https://tsmulti.github.io/a/c6666.html</guid>
+      <description>これは c/c6/index.md だよ</description>
+    </item>
+    
+    <item>
+      <title>c/c5 だよ</title>
+      <link>https://tsmulti.github.io/c555.html</link>
+      <pubDate>Thu, 08 Apr 2021 14:39:58 +0900</pubDate>
+      
+      <guid>https://tsmulti.github.io/c555.html</guid>
+      <description>これは c/c5/index.md だよ</description>
+    </item>
+    
+    <item>
+      <title>c/c4 だよ</title>
+      <link>https://tsmulti.github.io/c/c44.html</link>
+      <pubDate>Thu, 08 Apr 2021 14:36:08 +0900</pubDate>
+      
+      <guid>https://tsmulti.github.io/c/c44.html</guid>
+      <description>これは c/c4/index.md だよ</description>
+    </item>
+    
+    <item>
+      <title>c/c3/index だよ</title>
+      <link>https://tsmulti.github.io/c/c3/</link>
+      <pubDate>Thu, 08 Apr 2021 08:49:57 +0900</pubDate>
+      
+      <guid>https://tsmulti.github.io/c/c3/</guid>
+      <description>これは c/c3/index.md だよ</description>
+    </item>
+    
+    <item>
+      <title>c/c2　だよ</title>
+      <link>https://tsmulti.github.io/c/c22.html</link>
+      <pubDate>Wed, 07 Apr 2021 15:50:39 +0900</pubDate>
+      
+      <guid>https://tsmulti.github.io/c/c22.html</guid>
+      <description>これは c/c2.md だよ</description>
+    </item>
+    
+    <item>
+      <title>c/c1 だよ</title>
+      <link>https://tsmulti.github.io/c/c1/</link>
+      <pubDate>Wed, 07 Apr 2021 15:50:11 +0900</pubDate>
+      
+      <guid>https://tsmulti.github.io/c/c1/</guid>
+      <description>これは c/c1.md だよ</description>
+    </item>
+    
+  </channel>
+</rss>

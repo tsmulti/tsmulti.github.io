@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>b/bb/_index だよ on テストン</title>
+    <link>https://tsmulti.github.io/b/bb/</link>
+    <description>Recent content in b/bb/_index だよ on テストン</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 02 Apr 2021 15:03:51 +0900</lastBuildDate><atom:link href="https://tsmulti.github.io/b/bb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>b/bb/bb2 だよ</title>
+      <link>https://tsmulti.github.io/b/bb/bb2/</link>
+      <pubDate>Fri, 02 Apr 2021 15:04:04 +0900</pubDate>
+      
+      <guid>https://tsmulti.github.io/b/bb/bb2/</guid>
+      <description>これは b/bb/bb2.md だよ</description>
+    </item>
+    
+    <item>
+      <title>b/bb/bb1 だよ</title>
+      <link>https://tsmulti.github.io/b/bb/bb1/</link>
+      <pubDate>Fri, 02 Apr 2021 15:04:01 +0900</pubDate>
+      
+      <guid>https://tsmulti.github.io/b/bb/bb1/</guid>
+      <description>これは b/bb/bb1.md だよ</description>
+    </item>
+    
+  </channel>
+</rss>
