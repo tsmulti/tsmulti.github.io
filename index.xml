@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>_index ようこそ on テストン</title>
-    <link>https://www.tsmulti-service.com/</link>
+    <link>https://tsmulti.github.io/</link>
     <description>Recent content in _index ようこそ on テストン</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 02 Apr 2021 15:02:06 +0900</lastBuildDate><atom:link href="https://www.tsmulti-service.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Apr 2021 15:02:06 +0900</lastBuildDate><atom:link href="https://tsmulti.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sample</title>
-      <link>https://www.tsmulti-service.com/sample/</link>
+      <link>https://tsmulti.github.io/sample/</link>
       <pubDate>Mon, 12 Apr 2021 10:53:27 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/sample/</guid>
+      <guid>https://tsmulti.github.io/sample/</guid>
       <description>見出し1 こんにちは
 見出し2 こんにちは
 見出し3 こんにちは
@@ -33,37 +33,37 @@
     
     <item>
       <title>c/c6 だよ</title>
-      <link>https://www.tsmulti-service.com/a/c6666.html</link>
+      <link>https://tsmulti.github.io/a/c6666.html</link>
       <pubDate>Thu, 08 Apr 2021 14:43:37 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/a/c6666.html</guid>
+      <guid>https://tsmulti.github.io/a/c6666.html</guid>
       <description>これは c/c6/index.md だよ</description>
     </item>
     
     <item>
       <title>c/c5 だよ</title>
-      <link>https://www.tsmulti-service.com/c555.html</link>
+      <link>https://tsmulti.github.io/c555.html</link>
       <pubDate>Thu, 08 Apr 2021 14:39:58 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/c555.html</guid>
+      <guid>https://tsmulti.github.io/c555.html</guid>
       <description>これは c/c5/index.md だよ</description>
     </item>
     
     <item>
       <title>c/c4 だよ</title>
-      <link>https://www.tsmulti-service.com/c/c44.html</link>
+      <link>https://tsmulti.github.io/c/c44.html</link>
       <pubDate>Thu, 08 Apr 2021 14:36:08 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/c/c44.html</guid>
+      <guid>https://tsmulti.github.io/c/c44.html</guid>
       <description>これは c/c4/index.md だよ</description>
     </item>
     
     <item>
       <title>まくだう</title>
-      <link>https://www.tsmulti-service.com/md/</link>
+      <link>https://tsmulti.github.io/md/</link>
       <pubDate>Thu, 08 Apr 2021 12:04:48 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/md/</guid>
+      <guid>https://tsmulti.github.io/md/</guid>
       <description>見出し1 見出し2 見出し3 見出し4 見出し5 見出し6 見出し1～見出し6祇園精舎の鐘の声、諸行無常の響きあり。沙羅双樹の花の色、盛者必衰の理をあらはす。奢れる人も久しからず、ただ春の夜の夢のごとし。猛き者も遂にはほろびぬ、ひとへに風の前の塵に同じ。
 遠く異朝をとぶらへば、秦の趙高、漢の王莽、梁の朱忌、唐の禄山、これらは皆旧主先皇の政にもしたがはず、楽しみをきはめ、諫めをも思ひ入れず、天下の乱れん事を悟らずして、民間の愁ふるところを知らざつしかば、久しからずして、亡じにし者どもなり。
 祇園精舎の鐘の声、諸行無常の響きあり。沙羅双樹の花の色、盛者必衰の理をあらはす。
@@ -105,55 +105,55 @@ eeeee</description>
     
     <item>
       <title>c/c3/index だよ</title>
-      <link>https://www.tsmulti-service.com/c/c3/</link>
+      <link>https://tsmulti.github.io/c/c3/</link>
       <pubDate>Thu, 08 Apr 2021 08:49:57 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/c/c3/</guid>
+      <guid>https://tsmulti.github.io/c/c3/</guid>
       <description>これは c/c3/index.md だよ</description>
     </item>
     
     <item>
       <title>c/c2　だよ</title>
-      <link>https://www.tsmulti-service.com/c/c22.html</link>
+      <link>https://tsmulti.github.io/c/c22.html</link>
       <pubDate>Wed, 07 Apr 2021 15:50:39 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/c/c22.html</guid>
+      <guid>https://tsmulti.github.io/c/c22.html</guid>
       <description>これは c/c2.md だよ</description>
     </item>
     
     <item>
       <title>c/c1 だよ</title>
-      <link>https://www.tsmulti-service.com/c/c1/</link>
+      <link>https://tsmulti.github.io/c/c1/</link>
       <pubDate>Wed, 07 Apr 2021 15:50:11 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/c/c1/</guid>
+      <guid>https://tsmulti.github.io/c/c1/</guid>
       <description>これは c/c1.md だよ</description>
     </item>
     
     <item>
       <title>c だよ</title>
-      <link>https://www.tsmulti-service.com/c/</link>
+      <link>https://tsmulti.github.io/c/</link>
       <pubDate>Wed, 07 Apr 2021 15:49:54 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/c/</guid>
+      <guid>https://tsmulti.github.io/c/</guid>
       <description>これは c.md だよ</description>
     </item>
     
     <item>
       <title>商品・サービス</title>
-      <link>https://www.tsmulti-service.com/products/</link>
+      <link>https://tsmulti.github.io/products/</link>
       <pubDate>Sat, 03 Apr 2021 17:00:56 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/products/</guid>
+      <guid>https://tsmulti.github.io/products/</guid>
       <description>商品・サービスについての記述</description>
     </item>
     
     <item>
       <title>会社概要</title>
-      <link>https://www.tsmulti-service.com/about/</link>
+      <link>https://tsmulti.github.io/about/</link>
       <pubDate>Sat, 03 Apr 2021 17:00:41 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/about/</guid>
+      <guid>https://tsmulti.github.io/about/</guid>
       <description>【創業】 ・平成　年　月　日
 【拠点】 本社：東京都○○区○○○
 支社：埼玉県○○市○○○
@@ -162,55 +162,55 @@ eeeee</description>
     
     <item>
       <title>b/bb/bb2 だよ</title>
-      <link>https://www.tsmulti-service.com/b/bb/bb2/</link>
+      <link>https://tsmulti.github.io/b/bb/bb2/</link>
       <pubDate>Fri, 02 Apr 2021 15:04:04 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/b/bb/bb2/</guid>
+      <guid>https://tsmulti.github.io/b/bb/bb2/</guid>
       <description>これは b/bb/bb2.md だよ</description>
     </item>
     
     <item>
       <title>b/bb/bb1 だよ</title>
-      <link>https://www.tsmulti-service.com/b/bb/bb1/</link>
+      <link>https://tsmulti.github.io/b/bb/bb1/</link>
       <pubDate>Fri, 02 Apr 2021 15:04:01 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/b/bb/bb1/</guid>
+      <guid>https://tsmulti.github.io/b/bb/bb1/</guid>
       <description>これは b/bb/bb1.md だよ</description>
     </item>
     
     <item>
       <title>b/b1 だよ</title>
-      <link>https://www.tsmulti-service.com/b/b1/</link>
+      <link>https://tsmulti.github.io/b/b1/</link>
       <pubDate>Fri, 02 Apr 2021 15:03:41 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/b/b1/</guid>
+      <guid>https://tsmulti.github.io/b/b1/</guid>
       <description>これは b/b1.md だよ</description>
     </item>
     
     <item>
       <title>a/index だよ</title>
-      <link>https://www.tsmulti-service.com/a/</link>
+      <link>https://tsmulti.github.io/a/</link>
       <pubDate>Fri, 02 Apr 2021 15:02:34 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/a/</guid>
+      <guid>https://tsmulti.github.io/a/</guid>
       <description>これは a/index.md だよ</description>
     </item>
     
     <item>
       <title>root2だよ</title>
-      <link>https://www.tsmulti-service.com/root2/</link>
+      <link>https://tsmulti.github.io/root2/</link>
       <pubDate>Fri, 02 Apr 2021 15:02:20 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/root2/</guid>
+      <guid>https://tsmulti.github.io/root2/</guid>
       <description>これは root2.md だよ</description>
     </item>
     
     <item>
       <title>root1 だよ</title>
-      <link>https://www.tsmulti-service.com/root1/</link>
+      <link>https://tsmulti.github.io/root1/</link>
       <pubDate>Fri, 02 Apr 2021 15:02:18 +0900</pubDate>
       
-      <guid>https://www.tsmulti-service.com/root1/</guid>
+      <guid>https://tsmulti.github.io/root1/</guid>
       <description>これは root1.md だよ</description>
     </item>
     

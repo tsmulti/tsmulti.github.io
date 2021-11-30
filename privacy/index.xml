@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>プライバシーポリシー on テストン</title>
-    <link>https://www.tsmulti-service.com/privacy/</link>
+    <link>https://tsmulti.github.io/privacy/</link>
     <description>Recent content in プライバシーポリシー on テストン</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sat, 03 Apr 2021 17:01:02 +0900</lastBuildDate><atom:link href="https://www.tsmulti-service.com/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 17:01:02 +0900</lastBuildDate><atom:link href="https://tsmulti.github.io/privacy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

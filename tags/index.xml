@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on テストン</title>
-    <link>https://www.tsmulti-service.com/tags/</link>
+    <link>https://tsmulti.github.io/tags/</link>
     <description>Recent content in Tags on テストン</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language><atom:link href="https://www.tsmulti-service.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-JP</language><atom:link href="https://tsmulti.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
